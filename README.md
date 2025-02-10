@@ -32,11 +32,12 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Shen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SheSandaru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheSandaru&layout=compact&theme=radical)
+![Ashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashankavinda277&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashankavinda277&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-rathnayka)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SheSandaru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashan-kavinda-129287302)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashankavinda277)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SheSandaru&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Ashankavinda277&color=green)
+```
