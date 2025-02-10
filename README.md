@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey! I'm Ashan Kavinda
 
-<!--
-**Ashankavinda277/Ashankavinda277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Personal introduction
+- Current role/student status
+- Technologies you're passionate about
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Frontend technologies
+- Backend technologies
+- Tools & platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Highlight key projects
+- Include GitHub repo links
+
+## 📊 GitHub Stats
+- Add GitHub statistics
+
+## 🌐 Connect
+- Social media links
+- Contact information
