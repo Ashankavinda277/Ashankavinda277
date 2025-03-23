@@ -32,8 +32,15 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats
-![Ashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashankavinda277&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashankavinda277&layout=compact&theme=radical)
+
+![Ashankavinda277's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashankavinda277&show_icons=true&theme=dark&hide_border=true)
+
+![Ashankavinda277's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashankavinda277&layout=compact&theme=dark&hide_border=true)
+
+![Ashankavinda277's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashankavinda277&theme=dark&hide_border=true)
+
+## 🎯 Current Focus
+- Deepening knowledge in [Your Focus Area]
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashan-kavinda-129287302)
