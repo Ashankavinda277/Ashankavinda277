@@ -40,7 +40,7 @@
 ![Ashankavinda277's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashankavinda277&theme=dark&hide_border=true)
 
 ## 🎯 Current Focus
-- Deepening knowledge in [Your Focus Area]
+- Deepening knowledge in softaware Development and Data Science
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashan-kavinda-129287302)
