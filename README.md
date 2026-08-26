@@ -1,50 +1,19 @@
-# 👋 Hey! I'm Ashan Kavinda
+I'm Ashan Kavinda
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Open+Source+Enthusiast;Full+Stack+Developer;Cloud+Computing+Explorer)](https://git.io/typing-svg)
+Show Image
 
-## 🚀 About Me
-- 🎓 Information Technology student at University of Moratuwa, Sri Lanka
-- 💻 Full Stack Developer passionate about modern web technologies
-- ☁️ Exploring Cloud Computing and System Architecture
-- 🌐 Love building responsive and user-friendly web applications
-- 🤝 Open to collaborating on innovative projects
-- 📍 Based in Sri Lanka
+👋 About Me
+🎓 I'm currently studying Information Technology at University of Moratuwa.
+💻 Passionate about Full Stack Development and Cloud Computing.
+🌱 Currently learning Next.js, System Architecture, and Data Science.
+⚡ Fun fact I debug faster at 2 AM than I do at 2 PM. Nobody knows why.
+📫 Reach me at your.email@gmail.com
+🧠 Languages and Tools
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&perline=6" /> <br> <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,c,python&perline=6" /> <br> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&perline=6" /> </p>
+⚡ GitHub Stats
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Ashankavinda277&theme=dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashankavinda277&show_icons=true&theme=dark&hide_border=true" /> </p>
+🌐 Connect with Me
 
-## 🛠️ Tech Stack
+Show Image Show Image
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Programming
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Ashankavinda277's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashankavinda277&show_icons=true&theme=dark&hide_border=true)
-
-![Ashankavinda277's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashankavinda277&layout=compact&theme=dark&hide_border=true)
-
-![Ashankavinda277's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ashankavinda277&theme=dark&hide_border=true)
-
-## 🎯 Current Focus
-- Deepening knowledge in softaware Development and Data Science
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashan-kavinda-129287302)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashankavinda277)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashankavinda277&color=green)
-```
+💡 Stay curious, keep building, and remember — the bug is always in the last place you look.
