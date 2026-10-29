@@ -14,7 +14,7 @@
 - Working on Software Engineering & System Design
 - Learning Cloud Computing, AWS, DevOps & Generative AI
 - Passionate about writing clean, maintainable code
-- Open to internships and collaborative projects
+- Open to collaborative projects
 ```
 <p align="center">
   <a href="https://www.linkedin.com/in/ashan-kavinda-129287302"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
